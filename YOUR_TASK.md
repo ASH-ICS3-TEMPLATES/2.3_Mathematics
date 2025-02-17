@@ -1,6 +1,6 @@
 ### 2.3 - Mathematics
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 # 📝 Your Task:
 
@@ -49,5 +49,5 @@ The equation to convert in the _opposite_ direction is:
 ---
 
 <br>
-
+🐧
 🕒 If you finish with class time left, you can do independent learning.
