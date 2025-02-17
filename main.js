@@ -1,6 +1,6 @@
 /**
  * 2.3 - Mathematics
- * ICS3 - Mr. Brash 🐿️
+ * ICS3 - Mr. J 🐧
  * 
  * Make sure to read the README.md (especially if you missed class)
  * Then checkout the YOUR_TASK.md to see the practice plan
