@@ -1,6 +1,6 @@
 # 2.3 - Mathematics
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 **If you missed the live demonstration in class, read below. Otherwise you can go straight to [your task](./YOUR_TASK.md).**
 
@@ -71,4 +71,4 @@ console.log(`The hypotenuse of a triangle with sides ${a} and ${b} is ${c}`)
 
 <br>
 <br>
-🐿️
+🐧
